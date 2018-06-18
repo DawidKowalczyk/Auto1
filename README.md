@@ -1,4 +1,11 @@
 # Auto1
+#
+To run the project need
+#
 Latest Firefox browser
+#
 Latest marionette driver
-Import POM file to open project 
+#
+Import and unpack project
+#
+Open project from POM file
