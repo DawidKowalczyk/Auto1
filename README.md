@@ -1,5 +1,4 @@
 # Auto1
-#
 To run the project need
 #
 Latest Firefox browser
